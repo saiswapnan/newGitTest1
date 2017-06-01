@@ -1,0 +1,9 @@
+public class Animal{
+  public void eat(){
+  system.out.println("animal is eating");
+  }
+  public void drink(){
+  sysstem.out.println("animal is drinking");
+{
+
+
